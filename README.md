@@ -1,18 +1,17 @@
-# SLSC
 SLSC-O Optimized Short Lag Spatial Coherence in Ultrasound Visualization
 =========================
 
-## Overview
+Overview
 --------
 Matlab scripts as an illustration of SLSC-O algorithm.
 
-## Citing
+Citing
 ------
 SLSC-O is citationware. The paper that we recommend if you wish to cite SLSC-O, is *J. Domaradzki, M. Lewandowski, N. Zolek, M. Lewandowski
 ''Optimization of  Short-Lag Spatial  Coherence Imaging method in ultrasound data visualization'' - to appear in ...
 .
 
-## Feedback
+Feedback
 --------
 Your comments are welcome. Report them to
 [Norbert Zolek](mailto:nzolek@ippt.pan.pl).
@@ -23,7 +22,7 @@ The postal address is
  Institute of Fundamental Technological Research
  Polish Academy of Sciences
  ul. Pawinskiego 5B
- 02 Warsaw
+ 02-106 Warsaw
  POLAND
 ```
 
